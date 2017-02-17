@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isaachelbling/checkeroo/issues"
   },
-  "homepage": "https://github.com/isaachelbling/checkeroo#readme"
+  "homepage": "https://github.com/isaachelbling/checkeroo#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
